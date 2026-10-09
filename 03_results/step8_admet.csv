@@ -1,0 +1,8 @@
+compound,role,lincs_cs,smiles,MW,cLogP,TPSA,HBD,HBA,RotBonds,BBB_pred,note,error
+phenazone,LINCS reversal small molecule (trt_cp),-1.45,CC1=CC(=O)N(N1C)C2=CC=CC=C2,188.23,1.48,26.93,0,1,1,likely_CNS+,Reverses microglial-activation signature in LINCS; antipyrine/analgesic,
+vorinostat,LINCS reversal small molecule (trt_cp),-1.31,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO,264.32,2.47,78.43,3,3,8,likely_CNS+,Reverses microglial-activation signature in LINCS; HDAC inhibitor,
+caffeine,Calibration reference (known CNS+),,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,194.19,-1.03,61.82,0,3,0,likely_CNS-,Positive-control CNS-penetrant drug,
+metformin,Calibration reference (low CNS),,CN(C)C(=N)N=C(N)N,129.17,-1.24,91.49,3,1,0,likely_CNS-,Negative-control low-CNS-penetrant drug,
+tofacitinib,JAK3/JAK1 inhibitor (NF-kB-axis repurpose candidate),,C[C@@H]1CCN(C[C@@H]1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N,312.38,1.54,88.91,1,5,3,likely_CNS+,FDA-approved; targets JAK3 in converged axis,
+ruxolitinib,JAK1/2 inhibitor (NF-kB-axis repurpose candidate),,C1CCC(C1)[C@@H](CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3,306.37,3.47,83.18,1,4,4,likely_CNS+,FDA-approved; targets JAK1 in converged axis,
+amlexanox,TBK1/IKKepsilon inhibitor (NF-kB-axis repurpose candidate),,CC(C)C1=CC2=C(C=C1)OC3=NC(=C(C=C3C2=O)C(=O)O)N,298.3,2.75,106.42,2,5,2,likely_CNS-,Targets TBK1 in converged axis,

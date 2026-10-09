@@ -1,0 +1,31 @@
+target_key,target_gene,ligand,ligand_note,exploratory_box
+JAK3_6RU9,JAK3,tofacitinib,JAK3/JAK1 inhibitor; targets converged NF-kB axis,False
+JAK3_6RU9,JAK3,ruxolitinib,JAK1/2 inhibitor; targets converged NF-kB axis,False
+JAK3_6RU9,JAK3,phenazone,LINCS reversal hit (CS=-1.45) + CNS-penetrant analgesic,False
+JAK3_6RU9,JAK3,amlexanox,TBK1/IKKε inhibitor; targets converged NF-kB axis,False
+JAK3_6RU9,JAK3,vorinostat,LINCS reversal hit (CS=-1.31); HDAC inhibitor,False
+IKBKB_4KIK,IKBKB,tofacitinib,JAK3/JAK1 inhibitor; targets converged NF-kB axis,False
+IKBKB_4KIK,IKBKB,ruxolitinib,JAK1/2 inhibitor; targets converged NF-kB axis,False
+IKBKB_4KIK,IKBKB,phenazone,LINCS reversal hit (CS=-1.45) + CNS-penetrant analgesic,False
+IKBKB_4KIK,IKBKB,amlexanox,TBK1/IKKε inhibitor; targets converged NF-kB axis,False
+IKBKB_4KIK,IKBKB,vorinostat,LINCS reversal hit (CS=-1.31); HDAC inhibitor,False
+MALT1_5CQY,MALT1,tofacitinib,JAK3/JAK1 inhibitor; targets converged NF-kB axis,True
+MALT1_5CQY,MALT1,ruxolitinib,JAK1/2 inhibitor; targets converged NF-kB axis,True
+MALT1_5CQY,MALT1,phenazone,LINCS reversal hit (CS=-1.45) + CNS-penetrant analgesic,True
+MALT1_5CQY,MALT1,amlexanox,TBK1/IKKε inhibitor; targets converged NF-kB axis,True
+MALT1_5CQY,MALT1,vorinostat,LINCS reversal hit (CS=-1.31); HDAC inhibitor,True
+TBK1_4DLE,TBK1,tofacitinib,JAK3/JAK1 inhibitor; targets converged NF-kB axis,False
+TBK1_4DLE,TBK1,ruxolitinib,JAK1/2 inhibitor; targets converged NF-kB axis,False
+TBK1_4DLE,TBK1,phenazone,LINCS reversal hit (CS=-1.45) + CNS-penetrant analgesic,False
+TBK1_4DLE,TBK1,amlexanox,TBK1/IKKε inhibitor; targets converged NF-kB axis,False
+TBK1_4DLE,TBK1,vorinostat,LINCS reversal hit (CS=-1.31); HDAC inhibitor,False
+IRAK1_4U2U,IRAK1,tofacitinib,JAK3/JAK1 inhibitor; targets converged NF-kB axis,True
+IRAK1_4U2U,IRAK1,ruxolitinib,JAK1/2 inhibitor; targets converged NF-kB axis,True
+IRAK1_4U2U,IRAK1,phenazone,LINCS reversal hit (CS=-1.45) + CNS-penetrant analgesic,True
+IRAK1_4U2U,IRAK1,amlexanox,TBK1/IKKε inhibitor; targets converged NF-kB axis,True
+IRAK1_4U2U,IRAK1,vorinostat,LINCS reversal hit (CS=-1.31); HDAC inhibitor,True
+MYD88_5NFO,MYD88,tofacitinib,JAK3/JAK1 inhibitor; targets converged NF-kB axis,False
+MYD88_5NFO,MYD88,ruxolitinib,JAK1/2 inhibitor; targets converged NF-kB axis,False
+MYD88_5NFO,MYD88,phenazone,LINCS reversal hit (CS=-1.45) + CNS-penetrant analgesic,False
+MYD88_5NFO,MYD88,amlexanox,TBK1/IKKε inhibitor; targets converged NF-kB axis,False
+MYD88_5NFO,MYD88,vorinostat,LINCS reversal hit (CS=-1.31); HDAC inhibitor,False

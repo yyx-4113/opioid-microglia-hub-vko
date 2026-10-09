@@ -1,0 +1,7 @@
+gene,n_methods,in_lasso,in_rf_top150,in_svm_rfe,in_wgcna_hub,intramodular_k,in_activation_signature
+Gapt,2,False,True,True,False,193.41,True
+Oas3,3,True,True,True,False,192.254,True
+Cpne2,2,False,True,True,False,185.749,True
+Sgms2,3,True,True,True,False,184.755,True
+Cebpe,3,True,True,True,False,181.075,True
+Il1f9,3,True,True,True,False,178.751,True
