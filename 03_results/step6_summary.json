@@ -1,0 +1,125 @@
+{
+  "primary_finding": "Genes whose perturbation reverses the microglial-activation signature are significantly enriched for RUNX1 (and RUNX-family) ChIP-seq target genes (top human RUNX1 set p=3.4e-4, adjp=2.9e-3, OR=1.57; RUNX2 mouse p=3.2e-4, adjp=2.7e-3). RUNX1 perturbation shows only a weak negative connectivity (trt_sh, CS=-0.28), which is below the CS<=-1.0 reversal-hit threshold and is therefore directional only, NOT a formal reversal hit. The anchor is the significant ChEA_2016 RUNX1-target enrichment (human proxy space), not RUNX1 itself being a hit.",
+  "convergence_grade": "POSITIVE (human LINCS space; cross-species proxy to mouse NP hubs)",
+  "n_reversal_hits_cs_le_-1.0": 274,
+  "reversal_hit_types": {
+    "trt_lig": 3,
+    "trt_cp": 11,
+    "trt_sh": 239,
+    "trt_oe": 21
+  },
+  "runx1_pert_cs": -0.28,
+  "enrichr_RUNX_terms": [
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX2 24764292 ChIP-Seq MC3T3 Mouse",
+      "pvalue": 0.00031948768950500385,
+      "adjp": 0.0027285975644211,
+      "odds": 1.8349943435867049,
+      "overlap": "46/2000",
+      "genes": "NOTCH2;KDM5B;BTG2;CDKN1B;HSP90AB1;MAX;SERPINE1;CREM;PLOD3;TARS;LSP1;THBS1;GNAI2;SLC25A28;RPS19;CCND1;ZMIZ1;PRKAR2A;TIMP2;CYP1B1;PDGFRB;SPEN;ABCC1;HSP90AA1;GSTM1;ANXA1;IGFBP4;TXNRD1;ANXA5;DCLK3;LIF;HUS1;FOSL1;DCTD;UCK2;WEE1;GPRC5A;WNK1;DLC1;SCNN1A;RARA;MDM2;SOS1;MAP3K14;EZH2;MEGF9"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 21571218 ChIP-Seq MEGAKARYOCYTES Human",
+      "pvalue": 0.00034338464696601057,
+      "adjp": 0.0028935879584335,
+      "odds": 1.5731937882843234,
+      "overlap": "95/5071",
+      "genes": "BTG2;CDKN1B;HSP90AB1;CHD8;SERPINE1;IRS2;AATF;DUSP14;STK10;RPS19;HEY1;ZMIZ1;IMPA2;TIMP2;CYP1B1;PIP4K2B;WHSC1;VAV3;ABCC4;PRKCI;ABCC1;IL4R;RBM15;ARHGEF12;IFNGR1;IGFBP4;C2ORF3;DCXR;PRMT3;TCF12;ANXA5;SIRT5;VRK3;SDHB;FBXO11;PIAS2;TNFRSF1A;TUBB2A;EWSR1;ELF4;KCNMA1;RARA;GARS;S100A4;NOTCH2;BLM;HDAC2;CTBP1;MAX;CREM;FOXO3;COX5A;THBS1;GNAI2;SOCS2;PRKAR2B;GNA11;VPS8;ORMDL3;GNA12;STK38L;E2F4;ATG7;CD99;NGFR;STAT5B;DR1;TAF15;INSR;TXNRD1;PMM2;GSR;LIF;PBX1;SMARCA4;FOSL1;GLUD1;GCLC;WEE1;GNPDA1;BCL6;WNK1;STK17A;DLC1;SP3;GNAS;MDM2;GRB2;RAD1;MAN2B1;TRIP13;GNB5;TRIM38;AARS;EZH2"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX 20019798 ChIP-Seq JUKART Human",
+      "pvalue": 0.005094014035347,
+      "adjp": 0.0233291077560823,
+      "odds": 2.1122038676653045,
+      "overlap": "17/616",
+      "genes": "CYB5A;PRKCI;BTG2;BTG1;ARHGEF12;TCF12;GSR;ERAP1;LIF;ETV1;THBS1;UCK2;CCND3;HEY1;CCND1;ORMDL3;RARA"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 17652178 ChIP-ChIP JURKAT Human",
+      "pvalue": 0.020444266932241,
+      "adjp": 0.0701329519214698,
+      "odds": 1.6681633577658042,
+      "overlap": "22/1003",
+      "genes": "ITGB1;PRKCI;CREBBP;RALA;CDKN1B;ANXA1;ARHGEF12;SERPINE1;TCF12;HUS1;ETV1;YBX1;FBXO11;HERPUD1;KTN1;SOCS2;IL18RAP;CASP8;HEY1;STK17A;ORMDL3;STK38L"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 20887958 ChIP-Seq HPC-7 Mouse",
+      "pvalue": 0.0573317409184689,
+      "adjp": 0.146694980811629,
+      "odds": 1.4811056177176396,
+      "overlap": "22/1120",
+      "genes": "PDGFRB;IFNAR2;CREBBP;ABCC1;HDAC3;ACSL1;NCOA4;TCF12;GSR;LIF;ARNT;STK10;CCND3;RGS2;TUBB2A;POLR2A;WNK1;GNA11;TXNIP;IRF9;PAK4;BCL2L1"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 27514584 Chip-Seq MCF-7 Human",
+      "pvalue": 0.0784477998684375,
+      "adjp": 0.1836259611735278,
+      "odds": 1.3236556048846444,
+      "overlap": "35/2000",
+      "genes": "NOTCH2;ITGB1;KDM5B;BTG2;BTG1;HSP90AB1;PRDM1;HIF1A;FUT1;C14ORF181;HEY1;CCND1;IMPA2;CYP1B1;CTSB;PAK4;PRKCI;HSP90AA1;RBM15;GADD45B;TXNRD1;ANXA5;GSR;SMAD6;TMEM174;GCLC;KLF5;CAMK4;SCNN1A;SP3;RARA;TFF1;TRIP13;SOS1;MEGF9"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 22897851 ChIP-Seq JUKARTE6-1 Human",
+      "pvalue": 0.1102193885051728,
+      "adjp": 0.2361310289331161,
+      "odds": 1.2797558494404884,
+      "overlap": "34/2000",
+      "genes": "KDM5B;PIK3R4;COX5A;FUT1;HRSP12;DUSP14;TBK1;SLC25A28;ATG7;CBR3;VAV3;ABCC1;CDKN2C;IL4R;ACSL1;IFNGR1;F12;UBE2E3;MST1;RPS6;ERAP1;ARNT;SMAD6;TNFRSF1A;GLUD1;UCK2;WEE1;GNPDA1;MSH2;GRB2;TRIP13;MAP3K14;EZH2;BCL2L1"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 26923725 Chip-Seq MACROPHAGESS Mouse",
+      "pvalue": 0.243938446396263,
+      "adjp": 0.4318462132281183,
+      "odds": 2.157484635645303,
+      "overlap": "2/69",
+      "genes": "IFNAR2;AKT2"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX2 22187159 ChIP-Seq PCA Human",
+      "pvalue": 0.276419937514841,
+      "adjp": 0.4632165608038601,
+      "odds": 1.1091792604886457,
+      "overlap": "51/3423",
+      "genes": "ITGB1;KDM5B;BTG1;HSP90AB1;FLT3;IRS2;PRDM1;STK10;TBK1;CYP1B1;WHSC1;CTSB;VAV3;ABCC1;ARHGEF12;IFNGR1;C2ORF3;TCF12;ANXA5;ETV1;FBXO11;GAK;DCTD;DNAJC1;SFPQ;KIT;SUCLG2;DGKK;SOS1;RALA;MAX;ROCK2;GLIS3;PPOX;ATP2C1;MAPK8;VPS8;ORMDL3;ASCC3;FUK;CDKN2C;GOT1;INSR;GSR;BCL6;STK17A;DLC1;SP3;GNAS;GRB2;TRIP13"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 26923725 Chip-Seq HPCs Mouse",
+      "pvalue": 0.3967252359347828,
+      "adjp": 0.5788558658479204,
+      "odds": 1.1115639973551443,
+      "overlap": "13/859",
+      "genes": "CTBP1;SP140;IRS2;PBX1;ALDH1A3;MAPK8;GNPDA1;AKT2;NMT1;TRIP13;WHSC1;ATG7;MAP3K14"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 22412390 ChIP-Seq EML Mouse",
+      "pvalue": 0.4020850080810713,
+      "adjp": 0.5788558658479204,
+      "odds": 1.066266993859949,
+      "overlap": "29/2000",
+      "genes": "KDM5B;BTG2;SERPINE1;HERPUD1;GNAI2;CCND3;RGS2;CCND1;IMPA2;PDGFRB;SPEN;STAT5B;HSP90AA1;ANXA1;IGFBP4;F12;UBE2E3;TXNRD1;NCOA4;MST1;TNFRSF1A;UCK2;TUBB2A;KIT;GARS;S100A4;MAN2B1;SOS1;METAP2"
+    },
+    {
+      "library": "ChEA_2016",
+      "term": "RUNX1 27457419 Chip-Seq LIVER Mouse",
+      "pvalue": 0.9823667551162492,
+      "adjp": 0.9949612006946624,
+      "odds": 0.6294778002018163,
+      "overlap": "18/2000",
+      "genes": "KDM5B;BTG2;XRCC5;SP140;SEC16A;TFPI;PPOX;THBS1;PBX1;PIK3C2B;PER2;UCK2;RGS2;IL18RAP;CASP8;PAK7;BCL2;ATF3"
+    }
+  ],
+  "direct_overlap": null,
+  "hub_ortholog_in_RUNX1_targets": {},
+  "caveat": "Human LINCS space used as proxy for mouse microglial program; ChEA RUNX1 set is human ChIP-seq-derived."
+}
