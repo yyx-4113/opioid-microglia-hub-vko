@@ -1,0 +1,124 @@
+{
+  "g1_pass": false,
+  "n_positive_controls_recovered_strong": 0,
+  "n_positive_controls_recovered_moderate": 0,
+  "n_positive_control_instances": 0,
+  "mwu_one_sided_p": null,
+  "lincs_cs_neg_threshold": -90,
+  "lincs_cs_neg_moderate_threshold": -50,
+  "cs_distribution": {
+    "min": -17.328541800159837,
+    "p5": -7.516708371371333,
+    "median": -0.3520919923806891,
+    "p95": 6.815710098115266,
+    "max": 19.784992589444837
+  },
+  "n_up_landmark": 193,
+  "n_up_signature": 2085,
+  "n_down_landmark": 57,
+  "n_down_signature": 984,
+  "n_perturbations": 1246,
+  "step7_top_reversing": [
+    {
+      "pert_iname": "ZNF669",
+      "cs": -2.89,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "MYD88",
+      "cs": -2.32,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "RPS19",
+      "cs": -2.3,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "JAK3",
+      "cs": -2.24,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "TXNRD1",
+      "cs": -2.2,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "PIK3C2B",
+      "cs": -2.17,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "REL",
+      "cs": -2.16,
+      "pert_type": "trt_oe"
+    },
+    {
+      "pert_iname": "PIAS2",
+      "cs": -2.15,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "HADHB",
+      "cs": -2.13,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "BCL2L13",
+      "cs": -2.09,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "GAK",
+      "cs": -2.09,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "PRKAR2B",
+      "cs": -2.05,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "STK17A",
+      "cs": -2.05,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "BTG1",
+      "cs": -2.02,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "ACO2",
+      "cs": -2.01,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "IGFBP4",
+      "cs": -1.98,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "KIT",
+      "cs": -1.96,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "TERF2IP",
+      "cs": -1.94,
+      "pert_type": "trt_oe"
+    },
+    {
+      "pert_iname": "IRS2",
+      "cs": -1.93,
+      "pert_type": "trt_sh"
+    },
+    {
+      "pert_iname": "CDKN1B",
+      "cs": -1.92,
+      "pert_type": "trt_sh"
+    }
+  ],
+  "interpretation": "G1 NOT MET: \u5df2\u77e5\u836f\u672a\u5728 L1000 \u4e2d\u5e72\u51c0\u9006\u8f6c\u963f\u7247\u5c0f\u80f6\u8d28\u7b7e\u540d\uff08\u7ec6\u80de\u7cfb/\u7269\u79cd\u8bed\u5883\u5dee\u5f02\uff09\uff0cStep7 \u5019\u9009\u4ec5\u4f5c\u63a2\u7d22\u6027\u5047\u8bbe\u751f\u6210\uff0c\u4e0d\u5f97\u4f5c\u4e3a\u5df2\u9a8c\u8bc1\u91cd\u5b9a\u4f4d\u7ed3\u8bba\u3002"
+}
